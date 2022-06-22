@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Wizyta u lekarza",
+      "day": "Jutro o 16:45",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Piwo z kolegami",
+      "day": "21.07.2022 o 20:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meczyk w lola",
+      "day": "Sobota o 21:00",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Wyjscie do kina",
+      "day": "16.07.2022 o 20:20",
+      "reminder": true
+    }
+  ]
+}
